@@ -1,11 +1,11 @@
-# Overview
-The goal of this project is to help the beginners with their contributions in Open Source. We aim to achieve this collaboratively, so feel free to contribute in any way you want, just make sure to follow the contribution guidelines. You can contribute to it in either of the following ways:
+# OVERVIEW
+The Goal Of This Project Is To Help The Beginners With Their Contributions In Open Source. We Aim To Achieve This Collaboratively, So Feel Free To Contribute In Any Way You Want, Just Make Sure To Follow The Contribution Guidelines. You Can Contribute To It In Either Of The Following Ways:
 
-- Beginners
+- BEGINER
 	- A "Hello World" program in your favorite language
-- Intermediate
+- INTERMIDATE
 	- Add any one of your favorite algorithm in your favorite language, from simple to complex!
-- Expert
+- EXPERT
 	-Add any graphical game in your favorite programming language!
 
 
